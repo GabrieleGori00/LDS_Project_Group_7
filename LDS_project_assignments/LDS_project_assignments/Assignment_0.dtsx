@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/28/2023 4:42:44 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="MATEBOOK15"
+  DTS:CreatorName="MATEBOOK15\gabri"
+  DTS:DTSID="{525619A5-1B4C-470B-8647-D24FC12A6E8C}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5314.0"
+  DTS:LocaleID="1040"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{D68ACD15-7182-4871-8535-662391518217}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
